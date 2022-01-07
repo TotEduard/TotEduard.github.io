@@ -1,0 +1,45 @@
+body {
+    margin:0% auto;
+}
+
+.topbar {
+    padding-top:37px;
+    background-color:lightskyblue;
+    box-shadow:0px 5px 5px rgb(0, 0, 0);
+}
+
+span {
+    font-size:23pt;
+    margin:0%;
+    font-family:sans-serif;
+}
+
+.letterss {
+    color: black;
+    text-decoration: none;
+}
+
+.link {
+    font-size: 20pt;
+    color:lightslategray;
+    text-decoration: none;
+    border: 3px solid black;
+}
+
+.links {
+    font-family:sans-serif;
+    background-color: lightsteelblue;
+    width: 292px;
+    margin: auto;
+    height: 33px;
+}
+
+.center {
+    font-family:sans-serif;
+    background-color: gainsboro;
+    margin: 150px;
+    border: 3px solid black;
+    font-size: 17pt;
+    text-align: center;
+    box-shadow:9px 5px 5px rgb(0, 0, 0);
+}
