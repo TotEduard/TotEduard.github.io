@@ -43,3 +43,14 @@ span {
     text-align: center;
     box-shadow:9px 5px 5px rgb(0, 0, 0);
 }
+
+.nav {
+    font-family:sans-serif;
+    background-color: darkgrey;
+    margin:240px;
+    border: 4px solid black;
+    font-size: 14pt;
+    text-align: center;
+    box-shadow: 6px 3px 3px;
+
+}
